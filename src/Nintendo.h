@@ -25,7 +25,7 @@ THE SOFTWARE.
 #pragma once
 
 // Software version
-#define NINTENDO_VERSION 130
+#define NINTENDO_VERSION 1337
 
 #include <Arduino.h>
 
